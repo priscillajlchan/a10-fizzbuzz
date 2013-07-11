@@ -6,7 +6,7 @@
 for ($n = 1; $n <= 10; $n++) {
 
 	if ($n % 2 == 0 && $n % 3 == 0) {
-	echo "The number is " . $n . " fizz buzz.<br>" ;
+		echo "The number is " . $n . " fizz buzz.<br>" ;
 
 	}
 
@@ -22,7 +22,7 @@ for ($n = 1; $n <= 10; $n++) {
 
 
 	else {
-			echo "The number is " . $n . ".<br>";
+		echo "The number is " . $n . ".<br>";
 
 	}
 
