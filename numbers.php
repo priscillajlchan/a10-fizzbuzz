@@ -1,6 +1,8 @@
 
 <?php
 
+/* Code has been validated on writecodeonline.com */
+
 for ($n = 1; $n <= 10; $n++) {
 
 	if ($n % 2 == 0 && $n % 3 == 0) {
@@ -26,5 +28,5 @@ for ($n = 1; $n <= 10; $n++) {
 
 }
 
-
 ?>
+
